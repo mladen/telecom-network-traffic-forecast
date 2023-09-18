@@ -2,8 +2,8 @@
 
 ## **Project description**
 
-**Objective**: Predict the network traffic load for different times of day or different days of the week.
-**Tech Stack**: Python, FastAPI, TensorFlow/Keras (for LSTM models), Pandas, Jupyter Notebook/Lab.
+**Objective**: Predict the network traffic load for different times of day or different days of the week.\
+**Tech Stack**: Python, FastAPI, TensorFlow/Keras (for LSTM models), Pandas, Jupyter Notebook/Lab.\
 **Steps**:
 
 - Analyze historical network traffic data.
